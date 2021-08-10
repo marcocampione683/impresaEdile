@@ -1,2 +1,2 @@
 # impresaEdile
-Programma che gestisce un impresa edile
+Programma che gestisce un'impresa edile
